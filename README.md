@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
