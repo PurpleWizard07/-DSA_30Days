@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
