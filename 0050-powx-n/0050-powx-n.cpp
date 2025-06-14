@@ -3,7 +3,7 @@ public:
     double myPow(double x, int n) {
         long long N = n;
         if (N < 0) {
-            x = 1 / x;            // handle negative exponent
+            x = 1 / x;            // Invert base if power is negative
             N = -N;
         }
 
