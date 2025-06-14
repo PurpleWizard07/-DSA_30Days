@@ -1,34 +1,43 @@
-// class Solution {
-// public:
-//     bool isHappy(int n) {
-        
-//     }
-// };
-
-
-
-
 class Solution {
 public:
     bool isHappy(int n) {
-        std::unordered_set<int> seen;
-
-        while (n != 1 && !seen.count(n)) {
-            seen.insert(n);  // Mark current number as seen
-
+        if(n==1 || n==7) return true;
+        else if (n<10) return false;
+        else {
             int sum = 0;
-            while (n > 0) {
-                int digit = n % 10;
-                sum += digit * digit;
-                n /= 10;
+            while(n>0) {
+                sum += (n%10)*(n%10);
+                n = n/10;
             }
-
-            n = sum;  // Use the result for the next iteration
+            return isHappy(sum);
         }
-
-        return n == 1;  // If we exited because n == 1 → happy number
     }
 };
+
+
+
+
+// class Solution {
+// public:
+//     bool isHappy(int n) {
+//         std::unordered_set<int> seen;
+
+//         while (n != 1 && !seen.count(n)) {
+//             seen.insert(n);  // Mark current number as seen
+
+//             int sum = 0;
+//             while (n > 0) {
+//                 int digit = n % 10;
+//                 sum += digit * digit;
+//                 n /= 10;
+//             }
+
+//             n = sum;  // Use the result for the next iteration
+//         }
+
+//         return n == 1;  // If we exited because n == 1 → happy number
+//     }
+// };
 
 
 
