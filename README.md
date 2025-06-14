@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -99,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
