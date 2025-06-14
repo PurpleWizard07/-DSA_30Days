@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
