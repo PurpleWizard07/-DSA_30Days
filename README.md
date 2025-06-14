@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 ## Memoization
