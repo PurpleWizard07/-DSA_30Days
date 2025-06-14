@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
