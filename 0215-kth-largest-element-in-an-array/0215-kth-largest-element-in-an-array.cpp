@@ -1,26 +1,28 @@
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        int target = nums.size() - k;  // kth largest = (n-k)th smallest
-        return quickSelect(nums, 0, nums.size() - 1, target);
-    }
+        int target = nums.size() - k;
+        int left = 0, right = nums.size() - 1;
 
-private:
-    int quickSelect(vector<int>& nums, int left, int right, int k) {
-        int pivot = nums[right];  // pick last element as pivot
-        int i = left;
+        while (left <= right) {
+            int pivotIndex = left + rand() % (right - left + 1);
+            int pivot = nums[pivotIndex];
+            swap(nums[pivotIndex], nums[right]);
 
-        // Partition: move smaller elements to left
-        for (int j = left; j < right; j++) {
-            if (nums[j] < pivot) {
-                swap(nums[i], nums[j]);
-                i++;
+            int i = left;
+            for (int j = left; j < right; ++j) {
+                if (nums[j] < pivot) {
+                    swap(nums[i], nums[j]);
+                    i++;
+                }
             }
-        }
-        swap(nums[i], nums[right]);  // put pivot in correct place
+            swap(nums[i], nums[right]);
 
-        if (i == k) return nums[i];         // found kth smallest
-        else if (i < k) return quickSelect(nums, i + 1, right, k); // search right
-        else return quickSelect(nums, left, i - 1, k);              // search left
+            if (i == target) return nums[i];
+            else if (i < target) left = i + 1;
+            else right = i - 1;
+        }
+
+        return -1;  // should never hit
     }
 };
