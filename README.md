@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
