@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0215-kth-largest-element-in-an-array) |
 ## String
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
