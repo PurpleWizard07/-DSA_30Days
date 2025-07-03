@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
