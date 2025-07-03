@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0125-valid-palindrome) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
