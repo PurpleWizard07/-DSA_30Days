@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0056-merge-intervals) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0125-valid-palindrome) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
