@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0142-linked-list-cycle-ii) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
