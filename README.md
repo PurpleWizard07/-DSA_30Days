@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
 ## Bucket Sort
 |  |
 | ------- |
