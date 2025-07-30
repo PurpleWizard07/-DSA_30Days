@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0128-longest-consecutive-sequence) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
