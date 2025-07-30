@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
 | [1603-running-sum-of-1d-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
