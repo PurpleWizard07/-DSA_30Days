@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0225-implement-stack-using-queues) |
+| [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
 ## Database
 |  |
 | ------- |
