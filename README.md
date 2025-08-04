@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
