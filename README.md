@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0620-not-boring-movies) |
+| [1135-customers-who-bought-all-products](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1182-game-play-analysis-iv) |
