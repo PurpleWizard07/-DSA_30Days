@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
