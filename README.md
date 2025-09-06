@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
+| [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0204-count-primes) |
+| [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -233,12 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -423,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
