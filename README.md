@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1603-running-sum-of-1d-array) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Greedy
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Quickselect
 |  |
 | ------- |
@@ -457,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
