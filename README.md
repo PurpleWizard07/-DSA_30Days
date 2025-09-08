@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
