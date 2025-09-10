@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0240-search-a-2d-matrix-ii) |
 ## Doubly-Linked List
 |  |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -479,5 +483,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
