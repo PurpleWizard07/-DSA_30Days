@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Prefix Sum
 |  |
 | ------- |
