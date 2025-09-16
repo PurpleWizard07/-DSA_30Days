@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1603-running-sum-of-1d-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0204-count-primes) |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Memoization
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0204-count-primes) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0234-palindrome-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
