@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1603-running-sum-of-1d-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1036-rotting-oranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
