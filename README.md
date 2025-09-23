@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0747-min-cost-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
