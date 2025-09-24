@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0747-min-cost-climbing-stairs) |
 ## Sorting
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Prefix Sum
