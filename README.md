@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1127-last-stone-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1603-running-sum-of-1d-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1018-largest-perimeter-triangle) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0876-hand-of-straights) |
+| [1018-largest-perimeter-triangle](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1018-largest-perimeter-triangle) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Queue
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/0204-count-primes) |
 | [1014-k-closest-points-to-origin](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/1018-largest-perimeter-triangle) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PurpleWizard07/-DSA_30Days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Memoization
 |  |
